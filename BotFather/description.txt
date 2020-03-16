@@ -1,0 +1,3 @@
+This bot helps you coordinate a group of people and find the right date for a common appointment, just like you might know from doodle.com. Open a new doodle and let your mates in the group chat vote for their preferred date.
+If you're having questions, either type /help, ask @n1try or visit www.ferdinand-muetsch.de.
+Please note that this bot doesn't have anything to do with the commercial http://doodle.com, since it's an independent and privately operated project that is still in beta phase.

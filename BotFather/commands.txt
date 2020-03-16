@@ -1,0 +1,5 @@
+new - Create a new doodle. See /help for how to do that.
+date - Add a new date option to the recently created doodle.
+open - Save and start the recently created doodle.
+close - Stop a doodle.
+help - Get help on how to use this bot and how to invoke commands.
